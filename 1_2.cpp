@@ -1,6 +1,4 @@
-﻿//..Lab_1..
-
-#include <iostream>
+﻿#include <iostream>
 #include <string>
 using namespace std;
 
